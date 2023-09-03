@@ -1,6 +1,6 @@
-// C program to demonstrate addition of complex numbers
+// A C program to demonstrate addition of complex numbers
 // in here, we are using two functions
-// so if you dont know functions works, first check those codes
+// so if you don't know how functions work, first check those codes
 #include <stdio.h>
 
 // define a structure for complex number
